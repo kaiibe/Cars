@@ -1,0 +1,56 @@
+body {
+	background-image: url('../img/road.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.game {
+	position: absolute;
+	padding: 10px;
+	background-color: lightblue;
+	width: 310px;
+	border: 3px solid #F00;
+	border-radius: 20px;
+	font-size: 20px;
+}
+
+.red {
+	color: red;
+}
+
+.yellow {
+	color: yellow;
+}
+
+.car {
+	position: absolute;
+	width: 200px;
+	height: 100px;
+	margin: 530px 0; 
+}
+
+.car2{
+	position: absolute;
+	width: 200px;
+	height: 100px;
+	margin: 700px 1260px; 
+}
+
+.controllers {
+	position: absolute;
+	left: 45%;
+	top: 15%;
+}
+
+.stop {
+	font-size: 40px;
+	width: 200px;
+	height: 100px;
+	outline: none;
+	border-radius: 30px;
+}
+
+
+
+
+
